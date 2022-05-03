@@ -1,4 +1,4 @@
-- 👋 Hi, Uzoanya Dominic. A Fullstack Software Engineer. My pereferred stack is JavaScript/Typescript, MongoDB, Express, Redux, MaterialUI & Node. I'd pick the Backend over the frontend anytime, anyday.
+- 👋 Hi I'm Uzoanya Dominic, a Fullstack Software Engineer. My pereferred stack is JavaScript/Typescript, MongoDB, Express, Redux, MaterialUI & Node. I'd pick the Backend over the frontend anytime, anyday.
 - 👀 I’m interested in JavaScript, Typescript and anything withing and around the JavaScript Ecosystem.
 - 🌱 I’m currently learning Machine Learning with JavaScript & Python and Blockchain development.
 - 💞️ I’m looking to collaborate on anything interesting as long as it's not written in `PHP`
